@@ -1,0 +1,12 @@
+{
+  "baseUrl": "",
+  "lighthouse": {
+    "experimental": {
+      "startCommand": "npm start"
+    },
+    "routes": [
+      "/",
+      "/hello"
+    ] 
+  }
+}
